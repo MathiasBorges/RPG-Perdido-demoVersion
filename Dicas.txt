@@ -1,0 +1,12 @@
+Recomendações:
+    use fones e utilize a janela maximizada ao jogar
+    obs.: existe  diferença entre jogar de dia e de noite
+
+Movimentação:
+    P1 / P2
+    Setas Arrow / W,A,S,D : mover
+
+Ataque:
+    P1 / P2
+    Spacebar / E
+
