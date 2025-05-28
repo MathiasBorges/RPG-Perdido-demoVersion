@@ -8,11 +8,11 @@ Obs.: esta é uma versão DEMO. Há a versão mais completa...porém é paga.
 Recomendações:
     use fones e utilize a janela maximizada ao jogar
     obs.: existe  diferença entre jogar de dia e de noite
-
-Movimentação:
-    P1 / P2
+<br>
+Movimentação:<br>
+    P1 / P2<br>
     Setas Arrow / W,A,S,D
-
-Ataque:
-    P1 / P2
+<br>
+Ataque:<br>
+    P1 / P2<br>
     Spacebar / E
